@@ -1,6 +1,10 @@
 ## My Project Ideas
 
-### A CLI
+### 1. A CLI
 
-### DL Projects
+### 2. DL Projects
+
+### 3. Database Informative Systems
+
+### 4. Extra Mini Projects
 
