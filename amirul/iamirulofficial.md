@@ -1,4 +1,5 @@
 ## My Project Ideas
+This projects are in my mind 😃
 
 ### 1. A CLI
 
